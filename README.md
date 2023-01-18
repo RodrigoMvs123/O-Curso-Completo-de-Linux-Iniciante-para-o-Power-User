@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=wBp0Rb-ZJak
 
 https://raw.githubusercontent.com/RodrigoMvs123/O-Curso-Completo-de-Linux-Iniciante-para-o-Power-User/main/README.md
 
-
+https://github.com/RodrigoMvs123/O-Curso-Completo-de-Linux-Iniciante-para-o-Power-User/blame/main/README.md
 
 Ubuntu for desktops
 Download ubuntu 
